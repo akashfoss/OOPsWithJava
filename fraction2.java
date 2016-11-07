@@ -4,11 +4,12 @@ private int den;
 
 
 public void setnum(int n){
-this.num = n;
+this.num = 1;
+
 }
 
 public void setden(int d){
-this.den = d;
+this.den = 1;
 }
 
 public int getnum(){
